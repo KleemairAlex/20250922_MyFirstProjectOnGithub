@@ -1,2 +1,2 @@
-﻿
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("bombo");
+Console.WriteLine("bombo2");
