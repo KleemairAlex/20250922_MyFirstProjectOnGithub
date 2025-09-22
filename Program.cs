@@ -1,2 +1,1 @@
-﻿Console.WriteLine("bombo");
-Console.WriteLine("bombo2");
+﻿Console.WriteLine("rombo");
